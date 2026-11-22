@@ -1,0 +1,16 @@
+# build output
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# secrets — never commit
+.env
+
+# your real expense data (CSV exports from Excel)
+*.csv
